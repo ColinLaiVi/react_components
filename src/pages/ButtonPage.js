@@ -1,5 +1,5 @@
 import { GoFlame, GoBell, GoBook, GoBriefcase, GoCircuitBoard } from "react-icons/go";
-import Button from "../components/Buttons";
+import Button from "../components/Button";
 
 function ButtonPage() {
     return (
